@@ -1,16 +1,34 @@
-# books
+NAMA : MOH. ARBI ARDIANSYAH
 
-A new Flutter project.
+NIM : 362358302150
 
-## Getting Started
+KELAS : 2B TRPL
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+                                                       LAPORAN PRAKTIKUM
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+HASIL PRAKTIKUM 1 :
+
+![](images/pr1.png)
+
+![](images/pr1a.png)
+
+HASIL PRAKTIKUM 2 :
+
+![](images/pr2.png)
+
+HASIL PRAKTIKUM 3 :
+
+![](images/pr3.png)
+
+HASIL PRAKTIKUM 4 :
+
+![](images/pr4.png)
+
+![](images/pr4a.png)
+
+HASIL PRAKTIKUM 5 :
+
+![](images/pr5b.jpg)
